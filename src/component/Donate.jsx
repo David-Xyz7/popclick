@@ -41,7 +41,7 @@ Dana hasil donasi akan digunakan untuk:
     cancelButtonText: 'Skip dulu'
   }).then((result) => {
     if(result.isConfirmed){
-      window.open('https://saweria.co/popowi', '_blank');
+      window.open('https://saweria.co/dapidlive', '_blank');
     }
   })
 }
